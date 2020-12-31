@@ -4,7 +4,7 @@ A quick way to make sure my writings are publicly accessible
 
 ### POPLSRC
 
-Submission to the '21 POPL Student Research Competition on Value Mutation Testing. Summarizes some of my initial findings during my thesis research
+My paper *accepted* to the '21 POPL Student Research Competition on Value Mutation Testing. Summarizes some of my initial findings during my thesis research
 
 ### Master's Thesis
 
